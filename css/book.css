@@ -1,0 +1,49 @@
+.background-img{
+    background-image: url(/images/Book/back1.webp);
+    background-size: cover;
+    height: 475px;
+    background-position: center;
+    
+    
+}
+.Destination
+{
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  font-size: 12px;
+  background-color: white;
+  background-image: url(/images/Book/search_images.png);
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 9px 12px 40px;
+  width: 196px;
+  background-size: 27px;
+}
+input[type=text] {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    font-size: 12px;
+    background-color: white;
+    
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 9px 12px 40px;
+    width: 196px;
+    background-size: 27px;
+  }
+  .button {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 0px 32px;
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 2px;
+    cursor: pointer;
+    border: 1px solid black;
+  }

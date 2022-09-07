@@ -1,0 +1,8 @@
+
+.back-img-l{
+    background-image: url('/images/location/back.webp');
+    background-size: cover;
+    height: 523px;
+    background-position: center;
+
+}

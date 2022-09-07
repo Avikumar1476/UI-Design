@@ -1,0 +1,9 @@
+.back-img-d {
+    /* background-color: black; */
+
+    background-image: url('/images/deals/back.webp');
+    background-size: cover;
+    height:611px;
+    background-position: center bottom;
+
+}
